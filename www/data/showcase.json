@@ -479,5 +479,11 @@
     "link": "https://weewoo.study",
     "github": "https://github.com/briansimoni/weewoo.study",
     "image": "weewoo.study"
+  },
+  {
+    "title": "boxdgrid",
+    "link": "https://boxdgrid.deno.dev",
+    "github": "wfrancescons/boxdgrid",
+    "image": "boxdgrid"
   }
 ]
